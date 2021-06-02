@@ -1,0 +1,18 @@
+
+Inserted WP Form 54
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'My Locality' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+Post ID: 35
+Post ID: 36
+Post ID: 37
+Post ID: 38
+Post ID: 39
+Post ID: 40
+Post ID: 41
+Post ID: 50
+Batch Process Complete!
